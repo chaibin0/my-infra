@@ -1,0 +1,3 @@
+[submodule "airflow-cb"]
+	path = airflow-cb
+	url = https://github.com/chaibin0/airflow-cb.git
